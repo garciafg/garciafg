@@ -2,7 +2,7 @@
 
 # <h1 align="center">Bem vindo ao meu mund<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"></h1>
 
-### Olá! Meu nome é Fábio. Sou um apaixonado por tecnologia e busco cada dia aprender mais e ser melhor no que já sei fazer.
+### Olá! Meu nome é Fábio. Sou um apaixonado por tecnologia e busco cada dia aprender mais, e ser melhor no que já sei fazer.
   
   <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
