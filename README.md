@@ -40,11 +40,18 @@
 
 **Languages & Libraries**
 
-[![React](https://img.shields.io/badge/-react-black?style=flat&logo=react&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday) 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Itsbeenalongday)](https://github.com/hItsbeenalongday)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://pt-br.reactjs.org)
+[![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://pt-br.reactjs.org)
+[![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://pt-br.reactjs.org)
+[![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://www.npmjs.com/)
+[![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://pt-br.reactjs.org)
+[![Jwt](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://pt-br.reactjs.org) 
+[![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Itsbeenalongday)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Itsbeenalongday)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 </br>
 
@@ -54,7 +61,8 @@
 
 **Databases**
   
-[![Mysql](https://img.shields.io/badge/-Mysql-FFFFFF?style=flat&logo=mysql&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
+[![Mysql](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black)](https://www.mysql.com/)
+  
   
 </div>
 
