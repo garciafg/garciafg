@@ -1,24 +1,20 @@
 
 
-## Bem vindo ao meu mundo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# <h1 align="center">Bem vindo ao meu mund<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"></h1>
 
 ### Olá! Meu nome é Fábio. Sou um apaixonado por tecnologia e busco cada dia aprender mais e ser melhor no que já sei fazer.
+  
+  <table width="100%"  border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img align="center" src="https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png" />
+    </td>
+  </tr>
+</table>
 
-![Web-developer](https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png)
-
-<a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/people/Brijesh-Dhanani/100010798357963">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 
 <br />
 <br />
-
-  
-  
-### 👨‍💻 Languagens e Ferramentas
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -62,7 +58,17 @@
 **Databases**
   
 [![Mysql](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black)](https://www.mysql.com/)
-  
+
+**Tools**
+
+[![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://#)
+[![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)](https://#)
+[![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15)](https://#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://#)
+[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://#)
+[![Corel Draw](https://img.shields.io/badge/CorelDraw-278620?style=for-the-badge&logo=coreldraw&logoColor=white)](https://#)
+[![GIT](https://img.shields.io/badge/GIT-red?style=for-the-badge&logo=git&logoColor=white)](https://#)
+[![Postman](https://img.shields.io/badge/POSTMAN-red?style=for-the-badge&logo=postman&logoColor=white)](https://#) 
   
 </div>
 
