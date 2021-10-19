@@ -7,7 +7,7 @@
   <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
-      <img align="center" src="https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png" />
+      <img align="center" src="https://fgdevon.tk/projetos/blog/prints/capa.jpg" />
     </td>
   </tr>
 </table>
